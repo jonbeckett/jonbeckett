@@ -1,5 +1,3 @@
-![Jonathan Beckett](https://jonbeckett.github.io/assets/images/jonbeckett.jpg)
-
 Hi! I'm Jonathan Beckett.
 
 I can variously be found working on software and web development in the daytime (not stored here), tinkering with Linux, playing retro video games, writing idiotic blog posts, listening to 80s pop music, and jumping down internet rabbit holes.
