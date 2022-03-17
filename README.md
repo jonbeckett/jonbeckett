@@ -15,3 +15,7 @@ You can find at all the usual places on the internet - feel free to message, sub
 You can also find various bits and pieces of his writing here:
 
 - [jonbeckett.blog](https://jonbeckett.blog)
+
+Finally, you can find an almost-daily blog here:
+
+- [jonathanwrotethis.substack.com](https://jonathanwrotethis.substack.com)
