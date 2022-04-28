@@ -12,3 +12,6 @@ You can find at a few different places around the internet - feel free to messag
 - [Twitter](https://twitter.com/jonbeckett)
 - [Facebook](https://facebook.com/jonbeckett)
 - [Instagram](https://instagram.com/jonbeckett)
+- [Wordpress](https://jonathanwrotethis.wordpress.com)
+- [Tumblr](https://jonathanwrotethis.tumblr.com)
+- [Wordsmith.Social](https://wordsmith.social/jonbeckett)
