@@ -6,16 +6,9 @@ The easiest way to get in touch is always email:
 
 - [jonathan.beckett@gmail.com](mailto:jonathan.beckett@gmail.com)
 
-You can find at all the usual places on the internet - feel free to message, subscribe, follow, friend, or whatever it is you do at each place:
+You can find at a few different places around the internet - feel free to message, subscribe, follow, friend, or whatever it is you do at each place:
 
+- [Mastodon](https://mastodon.online/@jonbeckett)
 - [Twitter](https://twitter.com/jonbeckett)
 - [Facebook](https://facebook.com/jonbeckett)
 - [Instagram](https://instagram.com/jonbeckett)
-
-You can also find various bits and pieces of his writing here:
-
-- [jonbeckett.blog](https://jonbeckett.blog)
-
-Finally, you can find an almost-daily blog here:
-
-- [jonathanwrotethis.substack.com](https://jonathanwrotethis.substack.com)
