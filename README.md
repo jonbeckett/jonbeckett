@@ -8,7 +8,7 @@ The easiest way to get in touch is always email:
 
 You can find at a few different places around the internet - feel free to message, subscribe, follow, friend, or whatever it is you do at each place:
 
+- [Blog](https://jonbeckett.blog)
 - [Twitter](https://twitter.com/jonbeckett)
 - [Facebook](https://facebook.com/jonbeckett)
 - [Instagram](https://instagram.com/jonbeckett)
-- [Substack](https://jonathanwrotethis.substack.com)
