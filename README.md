@@ -5,9 +5,3 @@ I can variously be found working on software and web development in the daytime,
 The easiest way to get in touch is always email:
 
 - [jonathan.beckett@gmail.com](mailto:jonathan.beckett@gmail.com)
-
-You can find at a few different places around the internet - feel free to message, subscribe, follow, friend, or whatever it is you do at each place:
-
-- [Twitter](https://twitter.com/jonbeckett)
-- [Facebook](https://facebook.com/jonbeckett)
-- [Instagram](https://instagram.com/jonbeckett)
